@@ -134,3 +134,29 @@
     color: #40da32;
     font-weight: bold;
 }
+.haf{
+    width: 1320px;
+    height: 344px;
+    display: flex;
+}
+.container1{
+    width: 424px;
+    height: 367px;
+    margin: auto;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    background-color: rgb(235, 235, 235);
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.footer{
+    margin-top: 150px;
+    display: flex;
+}
+@media screen        {
+    
+} 
+    
+
