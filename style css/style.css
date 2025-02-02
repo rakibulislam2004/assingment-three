@@ -1,0 +1,136 @@
+.body{
+    width: 1600px;
+    height: 1298;
+    margin: auto  ;
+  justify-items: center;
+    margin-top: 30px;
+}
+.had{
+    margin: auto;
+    width: 1600px;
+    height: 1290px;
+    padding-bottom: 0%;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+ background: linear-gradient( -45deg, #e9e5e5, #ffffff );
+}
+
+
+.div1{
+    display: flex;
+  justify-content: space-around;
+}
+.ul{
+    gap: 20px;
+    text-shadow: burlywood;
+}
+.span1{
+    color: rgb(42, 212, 26);
+}
+.div3{
+    display: flex;
+}
+.div2{
+    display: flex;
+}
+.btn1{
+    width: 117px;
+    height: 45px;
+    border-radius: 9px;
+    background-color: aliceblue;
+    text-shadow: bisque ;
+}
+.btn2{
+    width: 146px;
+    height: 45px;
+    border-radius: 9px;
+    background-color: rgb(66, 226, 66);
+    text-shadow: bisque ;
+    color: azure;
+}
+.div{
+    align-items: center;
+}
+.img1{
+    margin-top: 20px;
+    margin-bottom: 0%;
+    width: 1031px;
+    height: 838px;
+    align-items: center;
+}
+.head{
+    margin-top: 20px;
+    align-items: center;
+    padding-top: 150px;
+    text-align: center;
+    color: rgb(56, 55, 55);
+    text-size-adjust: bold;
+    font-weight: bolder;
+}
+.p1{
+    color: rgb(65, 64, 64);
+    text-align: center;
+}
+.sec1{
+    margin-top: 90px;
+    
+}
+.div5{
+    display: flex;
+    width: 1320px;
+    height: 367px;
+
+}
+.div6{
+    width: 424px;
+    height: 367px;
+    margin: auto;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    background-color: rgb(235, 235, 235);
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.p2{
+    text-align: center;
+    color: black;
+}
+.div7{
+    width: 424px;
+    height: 367px;
+    margin: auto;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    background-color: rgb(235, 235, 235);
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.p3{
+    text-align: center;
+    color: black;
+}
+.div8{
+    width: 424px;
+    height: 367px;
+    margin: auto;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    background-color: rgb(235, 235, 235);
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.p4{
+    text-align: center;
+    color: black;
+}
+.h2{
+    color: #40da32;
+    font-weight: bold;
+}
